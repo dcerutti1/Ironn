@@ -1,0 +1,17 @@
+[package]
+name = "Ironn-macros"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "custom macros for the ironn-core lib"
+
+
+
+[dependencies]
+syn = { version = "1.0", features = ["full"] }
+quote = "1.0"
+actix-web = "4.10.2"
+
+
+[lib]
+proc-macro = true

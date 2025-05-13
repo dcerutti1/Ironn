@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "Ironn-cli",
+    "Ironn-core",
+    "Ironn-macros"
+]
+resolver = "3"

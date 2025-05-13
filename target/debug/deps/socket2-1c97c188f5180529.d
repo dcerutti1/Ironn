@@ -1,0 +1,11 @@
+C:\Users\doria\RustroverProjects\Ironn\target\debug\deps\libsocket2-1c97c188f5180529.rmeta: C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\lib.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockaddr.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\socket.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockref.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sys\windows.rs
+
+C:\Users\doria\RustroverProjects\Ironn\target\debug\deps\libsocket2-1c97c188f5180529.rlib: C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\lib.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockaddr.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\socket.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockref.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sys\windows.rs
+
+C:\Users\doria\RustroverProjects\Ironn\target\debug\deps\socket2-1c97c188f5180529.d: C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\lib.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockaddr.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\socket.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockref.rs C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sys\windows.rs
+
+C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\lib.rs:
+C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockaddr.rs:
+C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\socket.rs:
+C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sockref.rs:
+C:\Users\doria\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.5.9\src\sys\windows.rs:

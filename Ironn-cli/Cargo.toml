@@ -1,0 +1,9 @@
+[package]
+name = "Ironn-cli"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "cli for bootstrapping and managing Ironn backend projects"
+repository = "https://github.com/dcerutti1/Ironn-cli"
+
+[dependencies]
